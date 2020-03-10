@@ -1,0 +1,39 @@
+.container {
+  max-width: 1200%;
+  margin: auto;
+  padding: 60px 30px;
+
+  display: flex;
+  flex-direction: column;
+}
+
+.calcMin {
+  width: 100%;
+  background: #FFF;
+  border-radius: 0px;
+  padding: 40px 30px;
+  border-style: solid;
+  border-bottom: none;
+}
+
+.calcFale{
+  width: 100%;
+  background: #FFF;
+  border-radius: 0px;
+  padding: 40px 30px;
+  border-style: solid;
+  border-top: none;
+
+}
+
+.title1 .title2{
+  font-size: large;
+  padding: 15px;
+
+}
+
+select {
+  padding: 0px 10px;
+
+}
+
